@@ -1,4 +1,3 @@
-lebogang_nytime Technology Assessment
 
 ## Example:
 Clone down this repository. You will need node and npm installed globally on your machine.
